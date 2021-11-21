@@ -1,6 +1,6 @@
 ### Hi there 👋, 
-Thanks for stopping by! 
-Hey there, I'm [**Nikhil**](https://nikhilchaudhari.me/) 🙂 
+Thanks for stopping by!  
+I'm [**Nikhil**](https://nikhilchaudhari.me/) 🙂 
 
 I work on Android, Kotlin, Java. Currently working on android Payment's app at @paypay corp.  
 Previously, I was in @helpshift where I worked on creating android SDKs/Libraries and Unity, Xamarin.
