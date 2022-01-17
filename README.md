@@ -2,7 +2,7 @@
 Thanks for stopping by!  
 I'm [**Nikhil**](https://nikhilchaudhari.me/) 🙂 
 
-I work on Android, Kotlin, Java. Currently working on Android-Payment App at [@paypay-corp](https://paypay.ne.jp/).  
+I work on Android, Kotlin, Java. Currently working on Japan's leading Payment's App at [@paypay-corp](https://paypay.ne.jp/).  
 Previously, I was in [@helpshift](https://www.helpshift.com/) where I worked on creating android SDKs/Libraries and Unity, Xamarin.
 
 I'm exploring Jetpack Compose 🚀. Please checkout my repos where I mostly play with canvas and drawing to create awesome generative art. 🖌️🎨
